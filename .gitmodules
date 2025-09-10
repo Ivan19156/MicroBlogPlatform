@@ -1,0 +1,3 @@
+[submodule "MicroBlogPlatform-frontend"]
+	path = MicroBlogPlatform-frontend
+	url = https://github.com/Ivan19156/MicroBlogPlatform-frontend.git
